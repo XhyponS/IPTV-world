@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBCNews.uk",BCC News
+#EXTINF:-1 tvg-id="BBCNews.uk",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCNewsArabic.uk",BBC News Arabic
 https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8
