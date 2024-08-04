@@ -1,4 +1,4 @@
-Note: Uk M3u is still WIP
+
 
 
 How To use iptv
