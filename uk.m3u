@@ -1,16 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ITV1Plus1.uk",ITV1 +1 (576p) [Geo-blocked]
-https://cdnuk001.broadcastcdn.net/KUK-ITVPLUS1/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV2.uk",ITV2 (576p) [Not 24/7]
-http://93.190.139.35:8278/streams/d/itv2_antik/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV2.uk",ITV2 (1080p)
-https://cdnuk001.broadcastcdn.net/KUK-ITV2/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV3.uk",ITV3 (720p)
-https://cdnuk001.broadcastcdn.net/KUK-ITV3/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV4.uk",ITV4 (576p)
-https://cdnuk001.broadcastcdn.net/KUK-ITV4/playlist.m3u8
-#EXTINF:-1 tvg-id="ITVBe.uk",ITVBe (576p)
-https://cdnuk001.broadcastcdn.net/KUK-ITVBE/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BBCAlba.uk",BBC Alba (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCArabic.uk",BBC Arabic (720p)
