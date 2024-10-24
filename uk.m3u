@@ -1,5 +1,12 @@
 #EXTM3U
-
+#EXTINF-:-1 tvg-id="itv1.uk",ITV 1 [Geo-blocked]
+<iframe width="100%" height="auto" src="https://www.livehdtv.com/embed/itv1/" frameborder="0
+#EXTINF-:-1 tvg-id="itv2.uk", ITV 2 [Geo-Blocked]
+<iframe width="100%" height="auto" src="https://www.livehdtv.com/embed/itv2/" frameborder="0"  scrolling="no"></iframe>
+#EXTINF-:-1 tvg-id="itv3.uk", ITV 3 [Geo-blocked]
+<iframe width="100%" height="auto" src="https://www.livehdtv.com/embed/itv3/" frameborder="0"  
+#EXTINF-:-1 tvg-id="itv4.uk", ITV 4 [Geo-blocked]
+<iframe width="100%" height="auto" src="https://www.livehdtv.com/embed/itv4/" frameborder="0"  
 #EXTINF:-1 tvg-id="BBCAlba.uk",BBC Alba (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCArabic.uk",BBC Arabic (720p)
