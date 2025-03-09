@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF-:-1 tvg-id="itv1.uk",ITV 1 [Geo-blocked]
-<iframe width="100%" height="auto" src="https://www.livehdtv.com/embed/itv1/" frameborder="0
+https://other.codeautoplaycdn1.workers.dev/?codeby=nd&channel=itv1
 #EXTINF-:-1 tvg-id="itv2.uk", ITV 2 [Geo-Blocked]
 <iframe width="100%" height="auto" src="https://www.livehdtv.com/embed/itv2/" frameborder="0"  scrolling="no"></iframe>
 #EXTINF-:-1 tvg-id="itv3.uk", ITV 3 [Geo-blocked]
