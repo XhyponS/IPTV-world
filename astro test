@@ -41,3 +41,46 @@ core=2.10.3
 #EXTINF:-1 tvg-id=TV Al Hijrah tvg-name=TV Al Hijrah tvg-logo=”alhijrah.png” group-
 title=”ASTRO”, TV Al Hijrah
 http://stream2.1malaysiaiptv.com:1935/mylive/smil:tvalhijrah_all.smil/media.m3u8
+#EXTINF:-1 tvg-id=TV Al Hijrah tvg-name=TV Al Hijrah tvg-logo=”alhijrah.png” group-
+title=”ASTRO”, TV Al Hijrah
+http://202.73.9.10:1935/mylive/smil:tvalhijrah_all.smil/
+chunklist_w2043333524_b878000_sleng.m3u8
+#EXTINF:-1 tvg-id=Axn Sci-Fi tvg-name=Axn Sci-Fi group-title=”ASTRO”, Axn Sci-Fi
+http://77.91.77.21:6730/?sid=4b54285289daac7298b23fa49406p710
+#EXTINF:-1 tvg-id=Animal Planet HD tvg-name=Animal Planet HD group-title=”ASTRO” 
+tvg-logo=animalpl.png, Animal Planet HD
+http://202.75.23.34:1400/live/ch31/02.m3u8
+#EXTINF:-1 tvg-id=Nat Geo HD tvg-name=National Geographic HD group-title=”ASTRO” 
+tvg-logo=2204956.png, National Geographic HD
+http://202.75.23.35/live/ch38/03.m3u8
+#EXTINF:-1 tvg-id=Nat Geo Wild HD tvg-name=Nat Geo Wild HD group-title=”ASTRO” tvg-
+logo=5144421.png, Nat Geo Wild HD
+http://202.75.23.35/live/ch39/03.m3u8
+#EXTINF:-1 tvg-id=Travel Channel tvg-name=Travel Channel group-title=”ASTRO” tvg-
+logo=6172282.png, TRAVEL Channel
+http://202.75.23.35:1400/live/ch41/03.m3u8
+#EXTINF:-1 tvg-id=One HD tvg-name=One HD tvg-logo=”one.png” group-title=”ASTRO”, 
+One HD
+http://motorsport.hopto.org:8080/
+#EXTINF:-1 tvg-id=Fox 1 HD tvg-name=Fox 1 HD tvg-logo=”fox1.png” group-
+title=”ASTRO”, FOX 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id=Fox Action HD tvg-name=Fox Action HD tvg-logo=”foxact.png” group-
+title=”ASTRO”, FOX ACTION HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id=Fox Movies HD tvg-name=Fox Movies HD tvg-logo=”foxm.png” group-
+title=”ASTRO”, FOX MOVIES HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id=ESPN HD tvg-name=ESPN HD tvg-logo=”espn.png” group-title=”ASTRO”,
+ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id=Fox Sport tvg-name=Fox sport tvg-logo=”foxsport.png” group-
+title=”ASTRO”, FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id=Fox Sport tvg-name=Fox sport tvg-logo=”foxsport.png” group-
+title=”ASTRO”, FOX SPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id=AXN HD tvg-name=AXN HD tvg-logo=”axnhd.png” group-title=”ASTRO”, 
+AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id=Fox tvg-name=Fox HD tvg-logo=”fox.png” group-title=”ASTRO”, FOX
