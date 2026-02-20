@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=TV 1 tvg-name=TV_1 tvg-logo=”TV 1.png” group-title=”RTM”,TV 1
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-id=TV 2 tvg-name=TV_2 tvg-logo=”TV 2.png” group-title=”RTM”,TV 2
+http://streamer1.cf.aws.stream.my/live/mp4:rtm-ch003.stream_360p/chunklist.m3u8
+#EXTINF:-1 tvg-id=TV3 tvg-name=TV3 tvg-logo=”TV3.png” group-title=”Media Prima”,TV3
+http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
+#EXTINF:-1 tvg-id=TVi tvg-name=TVi tvg-logo=”TVi.png” group-title=”RTM”,TVi
+http://supercharged.stream.my/live/ngrp:rtm-ch005.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id=RTM Muzik Aktif tvg-name=RTM_Muzik_Aktif tvg-
+logo=”muzikaktif.png” group-title=”RTM”,RTM Muzik Aktif
+http://supercharged.stream.my/live/ngrp:rtm-ch006.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id=1News tvg-name=1News tvg-logo=”1News.png” group-title=”RTM”,1News
+http://supercharged.stream.my/live/ngrp:rtm-ch020.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id=NTV7 tvg-name=NTV7? tvg-logo=”NTV7.png” group-title=”Media 
+Prima”,NTV7
+http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master001.m3u8
+#EXTINF:-1 tvg-id=8TV tvg-name=8TV tvg-logo=”8TV.png” group-title=”Media Prima”,8TV
+http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
+#EXTINF:-1 tvg-id=TV9 tvg-name=TV_9 tvg-logo=”TV 9.png” group-title=”Media 
+Prima”,TV9
+http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
+#EXTINF:-1 tvg-id=HIJAU TV tvg-name=HIJAU TV tvg-logo=”Hijau TV.png” group-
+title=”Media Prima”, Hijau TV
+rtmp://119.110.96.71/live/1htv
+#EXTINF:-1 tvg-id=OASIS tvg-name=OASIS group-title=”ASTRO”, OASIS
+rtmp://live.layarku.tv/live/sz=IMN=oasis634543287956387365618946557239573453
+#EXTINF:-1 tvg-id=Astro Awani tvg-name=Astro Awani tvg-logo=”awani.png” group-
+title=”ASTRO”, Astro Awani
+http://playback01.aotg-video.astro.com.my/AWANI/master.m3u8
+#EXTINF:-1 tvg-id=Bernama TV tvg-name=Bernama TV tvg-logo=”bernama.png” group-
+title=”ASTRO”, Bernama TV
+http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/
+chunklist_w520879673_b878000_sleng.m3u8
+#EXTINF:-1 tvg-id=Channel News Asia tvg-name=Channel News Asia tvg-logo=”CNA.png” 
+group-title=”MediaCorp”, Channel News Asia
+http://edge.mediacorp.swiftserve.com/live/cna/amlst:cnai-pc/
+media_b1472000_qaGRjb3JlPTIuMTAuMyZnPVdTRkJOTUdORkRYVg==.abst/Seg1-Frag10907?
+als=12.68,12,1.78,4,1396,2852,25,5,0,74,f,27.31,69.47,t,u,WSFBNMGNFDXV,2.10.3,74&hd
+core=2.10.3
+#EXTINF:-1 tvg-id=TV Al Hijrah tvg-name=TV Al Hijrah tvg-logo=”alhijrah.png” group-
+title=”ASTRO”, TV Al Hijrah
+http://stream2.1malaysiaiptv.com:1935/mylive/smil:tvalhijrah_all.smil/media.m3u8
