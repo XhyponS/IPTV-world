@@ -21,8 +21,7 @@ title=”ASTRO”, Astro Awani
 http://playback01.aotg-video.astro.com.my/AWANI/master.m3u8
 #EXTINF:-1 tvg-id=Bernama TV tvg-name=Bernama TV tvg-logo=”bernama.png” group
 title=”ASTRO”, Bernama TV
-http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/
-chunklist_w520879673_b878000_sleng.m3u8
+http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w520879673_b878000_sleng.m3u8
 #EXTINF:-1 tvg-id=TV Al Hijrah tvg-name=TV Al Hijrah tvg-logo=”alhijrah.png” group
 title=”ASTRO”, TV Al Hijrah
 http://stream2.1malaysiaiptv.com:1935/mylive/smil:tvalhijrah_all.smil/media.m3u8
