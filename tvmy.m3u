@@ -2,7 +2,8 @@
 #EXTINF:-1 tvg-id="AstroPrima.my",Astro Prima (720p)
 http://50.7.161.82:8278/Prima/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCeria.my",Astro Ceria 
-http://50.7.161.82:8278/Ceria/playlist.m3u8
+http://50.7.161.82:8278/Ceria/playlist.m3u8?
+tid=m02000000000014624840&ct=17950&t sum=1d6ed7be64dc2703ae688a369df440f9
 #EXTINF:-1 tvg-id="AstroWarna.my",Astro Warna
 http/50.7.161.82:8278/Warna/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9.my",TV9
