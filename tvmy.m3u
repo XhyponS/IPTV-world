@@ -1,1 +1,4 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AstroPrima.my",Astro Prima (720p)
+http://50.7.161.82:8278/Prima/playlist.m3u8?
+tid=m36fb09f3c61113453606&ct=17858&tsum=3095762479d46a3f27c12c65e15cf93f
