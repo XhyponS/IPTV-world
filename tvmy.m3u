@@ -7,7 +7,6 @@ tid=m02000000000014624840&ct=17950&t sum=1d6ed7be64dc2703ae688a369df440f9
 #EXTINF:-1 tvg-id="AstroWarna.my",Astro Warna
 http/50.7.161.82:8278/Warna/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9.my",TV9
-http://livecdn.long.tv:8123/live/B1D6CEDF1EF24A28A1201C3B20F6E814/playlist.m3u8?
-sid=dafd63697b5044e4aade904bd6d840eb7
+https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 
 
